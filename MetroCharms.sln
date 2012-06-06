@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroCharms", "MetroCharms\MetroCharms.csproj", "{5DC379DE-798D-41B1-B667-841DEE7D4A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroCharms.Web", "MetroCharms.Web\MetroCharms.Web.csproj", "{5A7845D4-8201-41ED-92CF-EEDDC2029FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC379DE-798D-41B1-B667-841DEE7D4A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC379DE-798D-41B1-B667-841DEE7D4A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC379DE-798D-41B1-B667-841DEE7D4A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC379DE-798D-41B1-B667-841DEE7D4A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7845D4-8201-41ED-92CF-EEDDC2029FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7845D4-8201-41ED-92CF-EEDDC2029FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7845D4-8201-41ED-92CF-EEDDC2029FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7845D4-8201-41ED-92CF-EEDDC2029FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
